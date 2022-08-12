@@ -11,7 +11,7 @@
 .container{  
     height: 100vh;
     width: 100vw;    
-    background-image: url(./imagens/fundo.jpg);
+    background-image: url(./imagens/fundo2.png);
     background-position: center;
     display: flex;
     flex-direction:column;
@@ -35,7 +35,9 @@
 .localizacao{
     width: 15%;
     height: 15%;  
-    font-family: great vibes, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;          
+    font-family: great vibes, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    color: rgb(9, 115, 172);      
+    margin-bottom: 38px;
 }
 
 .locFilho{
@@ -48,7 +50,9 @@
 .presentes{
     width: 15%;
     height: 15%; 
-    font-family: great vibes, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;        
+    font-family: great vibes, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;       
+    color: rgb(9, 115, 172); 
+    margin-bottom: 38px;
 }
 
 .preFilho{
@@ -61,7 +65,9 @@
 .contato{
     width: 15%;
     height: 15%;  
-    font-family: great vibes, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    font-family: great vibes, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    color: rgb(9, 115, 172); 
+    margin-bottom: 38px;
 }
 
 .conFilho{
